@@ -1,0 +1,16 @@
+data/
+build/
+dist/
+dist_repack/
+downloads/
+frontend/node_modules/
+frontend/dist/
+__pycache__/
+.pytest_cache/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+pywechat/.venv/
+.nested_git_backup/
+*.egg-info/

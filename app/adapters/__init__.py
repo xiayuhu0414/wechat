@@ -1,0 +1,2 @@
+"""Wechat automation adapters."""
+
